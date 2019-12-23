@@ -74,7 +74,7 @@ nav ul li a {
   width: 3.2rem;
 }
 
-#scroll-down {
+#scroll-link {
   position: relative;
   bottom: -10rem;
   left: 0;
@@ -107,8 +107,8 @@ main section {
 .boxes {
   display: flex;
   flex-direction: column;
-  width: 40%;
-  height: 80vh;
+  width: 42%;
+  height: 82vh;
   padding: 1rem;
   background-color: rgba(173, 173, 173, 0.5);
   box-shadow: 0px 3px 12px 5px rgba(0, 0, 0, 0.64);
@@ -216,7 +216,7 @@ main section {
 
 .contact-form {
   width: 80%;
-  height: 60%;
+  height: 50%;
   margin: 0 auto;
   margin-bottom: 1rem;
 }
@@ -226,7 +226,7 @@ textarea {
 }
 
 #social-media ul {
-  width: 100%;
+  width: 90%;
   margin-top: 2rem;
   display: flex;
   justify-content: space-around;
@@ -241,7 +241,6 @@ textarea {
 .fab:hover {
   font-size: 2.5rem;
 }
-
 
 /* buttons ==================== */
 
@@ -398,7 +397,7 @@ footer a:hover {
     font-size: 2.5rem;
   }
 
-  #scroll-down {
+  #scroll-link {
     position: relative;
     top: 5rem;
     left: 0;
@@ -453,7 +452,7 @@ footer a:hover {
     font-size: 3rem;
   }
 
-  #scroll-down {
+  #scroll-link {
     position: relative;
     top: 13rem;
     left: 0;
